@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ImageBoard
 //
-//  Created by ionlabs on 2019. 6. 10..
-//  Copyright © 2019년 ionlabs. All rights reserved.
+//  Created by wi on 2019. 6. 10..
+//  Copyright © 2019년 wi. All rights reserved.
 //
 
 import UIKit
